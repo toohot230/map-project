@@ -33,9 +33,17 @@ map.addEventListener('contextmenu', e => {
 
 /* ข้อมูลจุด */
 const points = [
+  { top: '42.32%', left: '28.59%', name: 'ค่ายทหาร-แต่ไม่รู้จุดแน่ชัด', images: ['11111.jpg'] },
+  { top: '70.54%', left: '65.82%', name: '403-เกิดตรงนี้แต่ไม่รู้จุดแน่ชัด', images: ['11111.jpg'] },
+  { top: '60.98%', left: '58.11%', name: '723-เกิดตรงนี้แต่ไม่รู้จุดแน่ชัด', images: ['1111.jpg'] },
+  { top: '75.72%', left: '32.79%', name: '611-เกิดตรงนี้แต่ไม่รู้จุดแน่ชัด', images: ['ๅๅๅๅ.jpg'] },
+  { top: '15.15%', left: '45.07%', name: '3019', images: ['3019.jpg'] },
+  { top: '31.94%', left: '48.66%', name: '2006', images: ['2006.jpg'] },
+  { top: '16.52%', left: '57.25%', name: '3029', images: ['3029.jpg'] },
+  { top: '62.83%', left: '51.28%', name: '596', images: ['596.jpg'] },
   { top: '20.83%', left: '40.49%', name: '3004-หลังบ้าน', images: ['3004.jpg'] },
   { top: '19.31%', left: '68.37%', name: 'mount gordo', images: ['mount gordo.jpg'] },
-  { top: '22.78%', left: '49.78%', name: 'เขาโคเคนตรง-ufo', images: ['11111.jpg'] },
+  { top: '22.78%', left: '49.78%', name: 'เขาโคเคนตรง-ufo', images: ['เขาโคเคน.jpg'] },
   { top: '88.81%', left: '42.26%', name: '40-บนเรือ', images: ['40.jpg'] },
   { top: '64.01%', left: '33.42%', name: '845', images: ['845.jpg'] },
   { top: '32.98%', left: '28.50%', name: '2001', images: ['2001.jpg'] },
@@ -54,7 +62,7 @@ const points = [
   { top: '69.39%', left: '43.83%', name: '539', images: ['539.jpg'] },
   { top: '57.37%', left: '51.81%', name: '719', images: ['719.jpg'] },
   { top: '81.97%', left: '36.06%', name: '311', images: ['311.jpg'] },
-  { top: '62.39%', left: '29.78%', name: '818', images: ['818.jpg'] },
+  { top: '62.39%', left: '29.78%', name: '818เกิดบ่อย', images: ['818.jpg'] },
   { top: '57.82%', left: '47.31%', name: '717', images: ['717.jpg'] },
   { top: '68.10%', left: '41.10%', name: '505', images: ['505.jpg'] },
   { top: '68.65%', left: '52.01%', name: '405', images: ['405.jpg'] },
